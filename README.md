@@ -5,7 +5,7 @@ To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
 ## DESIGN STEPS:
 ### Step 1:
-Choose a large prime number p and a generator g of the multiplicative group of integers modulo p.  
+Choose a large prime number p and a generator g of the multiplicative group of integers modulo p.   
 
 ### Step 2:
 Alice chooses a private key and computes her public key as 
